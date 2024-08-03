@@ -1,8 +1,2 @@
 # FakeNewsPredictionModel
-This repository contains a Fake News Prediction Model that uses a Logistic Regression algorithm to classify news articles as fake or real. The model is trained on a dataset of news articles, with a focus on data pre-processing, splitting the data into training and testing sets, and then training the Logistic Regression model.
-
-#Features
-#Data Preprocessing: Cleaning and preparing the dataset.
-#Data Splitting: Dividing data into training and testing sets.
-#Model Training: Training a Logistic Regression model.
-#Prediction and Evaluation: Assessing model performance and making predictions.
+The **Fake News Prediction Model** employs a **Logistic Regression** algorithm to classify news articles as fake or real. Trained on a comprehensive dataset, it focuses on data pre-processing, splitting the data into training and testing sets, and subsequently training the model. Designed to enhance the detection of misinformation, this project aims to ensure the accuracy and reliability of news content.
